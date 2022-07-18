@@ -1,4 +1,4 @@
-# Bet365 Live Soccer Score Scraper
+# Bet365 Live Odds Scraper
 
 ## Notes
 
